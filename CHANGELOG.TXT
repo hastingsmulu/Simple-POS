@@ -1,0 +1,12 @@
+1.12.17 (2020-12-17)
+    - User Session Activity Log Added on admin profile only
+    - Updated Paticulars Function from button to Color Highlight Tag
+    - Updated expense session activity for Cashier
+
+1.10.04 (2020-10-04)
+	- Some HTML related problems were fixed.
+    - Removed some extra bytes from PHP files.
+    - fixed font names bug
+    - code cleanup
+	- General performances were improved.
+EOF --------------------------------------------------------
